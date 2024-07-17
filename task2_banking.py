@@ -79,6 +79,7 @@ def main():
             else:
                 print("Account not found. Please create an account first.")
         elif choice == "5":
+            print("Thank You for using the bank.")
             break
         else:
             print("Invalid option. Please try again.")
